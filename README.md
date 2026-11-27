@@ -9,6 +9,7 @@ Senior Android SDK developer. I build client libraries that other teams drop int
 - Quality control when coding with AI agents: how to check work you didn't fully write yourself
 
 **What I'm building**
+
 New open-source projects are on the way. Watch this space.
 
 [LinkedIn](https://www.linkedin.com/in/dangavrielov/)
