@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Dan 👋
 
-<!--
-**GambitDev/GambitDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Android SDK developer. I build client libraries that other teams drop into their apps, and I care a lot about what it takes to ship them safely: API stability, small footprint, and tests you can trust.
 
-Here are some ideas to get you started:
+**Things I work with and think about**
+- Android SDKs and Kotlin
+- Gradle plugins and build tooling
+- Publishing libraries (Maven Central, R8/ProGuard consumer rules, binary compatibility)
+- Quality control when coding with AI agents: how to check work you didn't fully write yourself
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm building**
+New open-source projects are on the way. Watch this space.
+
+[LinkedIn](https://www.linkedin.com/in/dangavrielov/)
+
+
+
+
+
+
+
+
+
+
